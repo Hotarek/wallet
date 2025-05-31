@@ -1,4 +1,6 @@
-# Tonhub Wallet (alpha version)
+https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00EMIH5KZF&utm_source=univ
+
+ersal_share_referral_link# Tonhub Wallet (alpha version)
 
 New user friendly wallet for TON written in Typescript and React Native built for fast development and security in mind.
 
